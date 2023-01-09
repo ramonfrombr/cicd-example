@@ -1,6 +1,6 @@
 const dayOfTheWeek = (date = new Date()) => {
   const days = [
-    "Sunday!",
+    "Sunday!!!!",
     "Monday",
     "Tuesday",
     "Wednesday",
